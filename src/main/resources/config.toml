@@ -1,0 +1,7 @@
+# ゲーム情報
+Title = "エロトラップダンジョン"
+Version = 1.0
+Release = 0
+
+[config]
+Input = ">>> "

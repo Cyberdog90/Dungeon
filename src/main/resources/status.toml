@@ -1,0 +1,9 @@
+[status]
+StatusKeyArray = ["Name", "HP"]
+DisplayKeyArray = ["名前", "体力"]
+Name = "Player" # 名前は後々自分で入れるようにする。
+HP = 500
+
+[total]
+
+[now]
